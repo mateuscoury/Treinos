@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mateuscoury.github.io/treinos/static/css/main.922d8438.chunk.css",
+    "main.js": "/mateuscoury.github.io/treinos/static/js/main.05a6287e.chunk.js",
+    "main.js.map": "/mateuscoury.github.io/treinos/static/js/main.05a6287e.chunk.js.map",
+    "runtime-main.js": "/mateuscoury.github.io/treinos/static/js/runtime-main.e76de82d.js",
+    "runtime-main.js.map": "/mateuscoury.github.io/treinos/static/js/runtime-main.e76de82d.js.map",
+    "static/js/2.279efd1d.chunk.js": "/mateuscoury.github.io/treinos/static/js/2.279efd1d.chunk.js",
+    "static/js/2.279efd1d.chunk.js.map": "/mateuscoury.github.io/treinos/static/js/2.279efd1d.chunk.js.map",
+    "static/js/3.65649b2f.chunk.js": "/mateuscoury.github.io/treinos/static/js/3.65649b2f.chunk.js",
+    "static/js/3.65649b2f.chunk.js.map": "/mateuscoury.github.io/treinos/static/js/3.65649b2f.chunk.js.map",
+    "index.html": "/mateuscoury.github.io/treinos/index.html",
+    "static/css/main.922d8438.chunk.css.map": "/mateuscoury.github.io/treinos/static/css/main.922d8438.chunk.css.map",
+    "static/js/2.279efd1d.chunk.js.LICENSE.txt": "/mateuscoury.github.io/treinos/static/js/2.279efd1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e76de82d.js",
+    "static/js/2.279efd1d.chunk.js",
+    "static/css/main.922d8438.chunk.css",
+    "static/js/main.05a6287e.chunk.js"
+  ]
+}
